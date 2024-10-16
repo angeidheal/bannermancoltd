@@ -1,3 +1,6 @@
-theme: jekyll-theme-minimal
-title: Bannerman Company Ltd
-description: Haulier and scampi producer based in Easter Ross.
+title: "Bannerman Company Ltd"
+description: "Haulier and scampi producer based in Easter Ross."
+
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
